@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jenaro Garcia Developer @jjegarcia
 
 # THANKS
 
