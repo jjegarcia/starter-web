@@ -14,3 +14,6 @@ blabla bla222
 
 ##Con
 tttt
+
+#Copyright
+training 2019
