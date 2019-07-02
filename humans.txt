@@ -15,5 +15,7 @@
 
 # TECHNOLOGY COLOPHON
 
+
+multiple stashing - before any stash
     HTML5, CSS3
     jQuery, Modernizr
