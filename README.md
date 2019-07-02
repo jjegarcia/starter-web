@@ -17,4 +17,4 @@ Please fork this repository and then issue Pull Request for review.
 tttt
 
 #Copyright
-training 2019
+training 2019. Modified to show stashing
