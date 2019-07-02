@@ -18,3 +18,5 @@ tttt
 
 #Copyright
 training 2019. Modified to show stashing
+
+Multiple stashing in place
